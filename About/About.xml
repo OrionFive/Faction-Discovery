@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Faction Discovery</name>
+	<author>Orion</author>
+	<packageId>Orion.FactionDiscovery</packageId>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=751841890</url>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+		<packageId>UnlimitedHugs.HugsLib</packageId>
+		<displayName>HugsLib</displayName>
+		<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>UnlimitedHugs.HugsLib</li>
+	</loadAfter>
+	<description>Added a new faction mod and have to start a new game? Not anymore! 
+
+	Faction Discovery will make sure you have the recommended amount of bases for your new faction on the world map when you load your game the next time. 
+	</description>
+</ModMetaData>
