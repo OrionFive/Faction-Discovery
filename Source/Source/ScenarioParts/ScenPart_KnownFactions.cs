@@ -4,7 +4,7 @@ using RimWorld;
 using UnityEngine;
 using Verse;
 
-namespace FactionDiscovery
+namespace FactionDiscovery.ScenarioParts
 {
     public class ScenPart_KnownFactions : ScenPart
     {
