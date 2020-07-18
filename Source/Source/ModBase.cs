@@ -23,7 +23,8 @@ namespace FactionDiscovery
 
         private static void RunCheck()
         {
-            LongEventHandler.QueueLongEvent(MainUtilities.CheckFactions, "CheckFactions", false, null);
+            Log.Message("Faction Discovery is out of commission. Please use Vanilla Factions Expanded - Core instead.");
+            //LongEventHandler.QueueLongEvent(MainUtilities.CheckFactions, "CheckFactions", false, null);
         }
     }
 }
